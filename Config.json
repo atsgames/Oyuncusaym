@@ -1,0 +1,7 @@
+{
+  "modes": [
+    { "modeName": "parkur", "playerCount": 5 },
+    { "modeName": "arena",  "playerCount": 8 },
+    { "modeName": "race",   "playerCount": 6 }
+  ]
+}

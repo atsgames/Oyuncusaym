@@ -1,7 +1,7 @@
 {
   "modes": [
-    { "modeName": "EXTREMOS",  "playerCount": 3 },
-    { "modeName": "EMROS",     "playerCount": 3 },
+    { "modeName": "EXTRAMOS", "playerCount": 4 },
+    { "modeName": "ERMOS",     "playerCount": 4 },
     { "modeName": "race",      "playerCount": 3 },
     { "modeName": "race_dagg", "playerCount": 3 }
   ]

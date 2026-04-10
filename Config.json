@@ -1,8 +1,7 @@
 {
   "modes": [
-    { "modeName": "EXTRAMOS", "playerCount": 4 },
-    { "modeName": "ERMOS",     "playerCount": 4 },
-    { "modeName": "race",      "playerCount": 3 },
-    { "modeName": "race_dagg", "playerCount": 3 }
-  ]
+    { "modeName": "EXTREMOS", "playerCount": 6 },
+    { "modeName": "EMROS", "playerCount": 4 }
+  ],
+  "marquee": "Sunucu aktif, iyi oyunlar"
 }

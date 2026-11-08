@@ -1,7 +1,7 @@
 {
-  "modes": [
-    { "modeName": "EXTREMOS", "playerCount": 6 },
-    { "modeName": "EMROS", "playerCount": 4 }
+  "marquee": [
+    "Hoş geldin sürücü!",
+    "Yeni güncelleme yayında, iyi yarışlar!"
   ],
-  "marquee": "Sunucu"
+  "event": "BU HAFTA"
 }
